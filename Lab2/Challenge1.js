@@ -1,3 +1,4 @@
+//Lab2.3 chạy ở section10.html
 'use strict';
 const poll = {
     question: 'What is your favourite programming language?',
